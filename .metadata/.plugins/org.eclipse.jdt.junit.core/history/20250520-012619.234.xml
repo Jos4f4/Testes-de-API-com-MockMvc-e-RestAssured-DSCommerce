@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ProductControllerIT" project="dscommerce-jacoco-cap5-sb3.1.0" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.devsuperior.dscommerce.controllers.it.ProductControllerIT" time="0.81" displayname="ProductControllerIT" uniqueid="[engine:junit-jupiter]/[class:com.devsuperior.dscommerce.controllers.it.ProductControllerIT]">
+    <testcase name="findAllShouldReturnPageWhenNameParamIsNotEmpty" classname="com.devsuperior.dscommerce.controllers.it.ProductControllerIT" time="0.81" displayname="findAllShouldReturnPageWhenNameParamIsNotEmpty()" uniqueid="[engine:junit-jupiter]/[class:com.devsuperior.dscommerce.controllers.it.ProductControllerIT]/[method:findAllShouldReturnPageWhenNameParamIsNotEmpty()]"/>
+  </testsuite>
+</testrun>
