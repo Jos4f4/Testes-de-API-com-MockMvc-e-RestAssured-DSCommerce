@@ -1,4 +1,4 @@
 # Testes-de-API-com-MockMvc-e-RestAssured-DSCommerce
 
-##Projeto REST ASSURED testa os endpoints do projeto base
-##O porjeto com MOCKMVC continua singular.
+## O Projeto REST ASSURED testa os endpoints do projeto base
+## O Projeto com MOCKMVC continua singular.
